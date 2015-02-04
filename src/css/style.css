@@ -37,3 +37,7 @@ h2 {
 	background-color: #46602B;
 	border-color: transparent;
 }
+.event-wrap {
+	background-color: #0f326c;
+	background-image: url('../img/thumb-city1.jpg');
+}
