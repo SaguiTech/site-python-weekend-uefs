@@ -108,8 +108,8 @@ $(function() {
 
       var marker, position, mapRenderPosition, config, map, gMaps = g.maps;
 
-      position = new gMaps.LatLng(-12.978778, -38.460592);
-      mapRenderPosition = new gMaps.LatLng(-12.9791148, -38.4574931);
+      position = new gMaps.LatLng(-12.242036, -38.9463788);
+      mapRenderPosition = new gMaps.LatLng(-12.242036, -38.9463788);
 
       config = {
         center: mapRenderPosition,
