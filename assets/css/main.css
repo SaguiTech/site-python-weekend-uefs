@@ -6179,8 +6179,11 @@ hr {
 .logo-small {
   padding: 10px 0;
 }
-.icon-github-circled:before {
+.icon-linkedin-squared:before {
   content: '\e802';
+}
+.icon-github-circled:before {
+  content: '\e800';
 }
 /* '' */
 .icon-twitter:before {
