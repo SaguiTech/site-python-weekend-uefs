@@ -6563,3 +6563,41 @@ i {
   color: #46602b;
   font-weight: bold;
 }
+#pynordeste {
+  /*height: 100vh;*/
+  height: 350px;
+
+  background: url('../images/py-nordeste.jpg') no-repeat center fixed;
+  background-position-y: 150px;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+#pynordeste .float-content {
+  width: 270px;
+  margin-left: 5em;
+}
+#pynordeste .float-content .float-box {
+  width: 100%;
+  margin-bottom: 20px;
+
+  background-color: rgba(255, 255, 255, 1);
+  box-shadow: 0px 15px 50px rgba(0, 0, 0, 0.7);
+  zoom: 0.6;
+}
+#event-logo {
+  text-align: center;
+}
+#event-logo img {
+  vertical-align: middle;
+  max-height: 450px;
+  max-width: 320px;
+
+  margin-bottom: 50px;
+  margin-top: 40px;
+}
+.pynordeste-wrap h2 {
+  color: #FFF;
+  text-align: center;
+}
